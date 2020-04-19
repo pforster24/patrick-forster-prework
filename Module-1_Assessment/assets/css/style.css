@@ -1,0 +1,131 @@
+* {
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #eeeeee;
+}
+
+p {
+  font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 32px;
+  margin-left: 11px;
+  margin-right: 25px;
+  color: #666666;
+}
+
+h2 {
+  font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 32px;
+  margin-left: 25px;
+  margin-right: 25px;
+  color: #666666;
+
+}
+
+h3 {
+  position: absolute;
+  text-align: center;
+  background-color: #4aaaa5;
+  color: white;
+  font-family:'Georgia', Times, Times New Roman, serif ;
+  margin-top: 180px;
+  padding: 10px 10px ;
+  width: 280px;
+  
+}
+
+.nav-item {
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 18px; 
+  
+}
+
+.right {
+  margin-right: 405px;
+}
+
+.btn {
+  background-color: #4aaaa5;
+  margin-left: 25px;
+  box-sizing: auto;
+  padding: 10px 30px 10px 30px;
+  border-radius: 0px;
+  border: 1px solid #dddddd;
+  margin-bottom: 30px;
+}
+.header {
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  width: 910px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+
+  text-align: left;
+  color: #4aaaa5;
+  font-weight: 700;
+  
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-bottom: 40px;
+  border-bottom: 5px solid #eeeeee;
+}
+
+.name{
+  background-color: #4aaaa5;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  background-color: #4aaaa5;
+  width: 340px;
+  padding: 20px;
+  text-align: center;
+  color: white;
+  font-weight: 800;
+  margin-left: 485px
+}
+
+.container {
+  width: 960px;
+  height: auto;
+  margin: 50px 0px 50px 500px;
+  float: center;
+  background-color: #ffffff;
+  border: 1px;
+  border-color: #dddddd;
+}
+
+.container_2 {
+  width: 280px;
+  height: 250px;
+  margin: 25px;
+
+}
+
+.profile {
+  width: 300px;
+  height: 200px;
+  float: left;
+  margin: 7px 25px 20px 10px;
+}
+
+.page-footer {
+  background-color: #666666;
+  color: white;
+  font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  border-bottom: 1px solid #666666;
+  border-top: 9px solid #4aaaa5;
+}
+
+.input-group{
+  margin-bottom: 35px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.portfolio {
+  width: 280px;
+  height:250px;
+  position: absolute;
+  
+}
