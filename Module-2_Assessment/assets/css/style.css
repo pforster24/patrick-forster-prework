@@ -1,0 +1,23 @@
+body {
+    background-color: #c6cfc8;
+}
+
+p {
+    font-size: 36px;
+}
+
+h1 {
+    font-size: 90px;
+    font-family: fantasy;
+    color: #3ac25e;
+}
+.container {
+    text-align: center;
+}
+
+.guess_container {
+    margin: auto;
+    margin-top: 54px;
+    height: 180px;
+    border: solid black 3px;
+}
